@@ -46,9 +46,4 @@ app.*.map.json
 android/app/google-services.json
 ios/firebase_app_id_file.json
 ios/Runner/GoogleService-Info.plist
-lib/firebase_options.dart
-android/key.properties
-android/local.properties
-lib/cadastrar_imovel/cadastro_imovel_page.dart
-lib/atenticacao/auth_page.dart
-lib/atenticacao/login_page_auth.dart
+
